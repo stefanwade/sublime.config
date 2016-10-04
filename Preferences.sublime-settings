@@ -3,6 +3,8 @@
 	"font_size": 14.0,
 	"ignored_packages":
 	[
+		"Package Control",
 		"Vintage"
-	]
+	],
+	//"spell_check": true,
 }

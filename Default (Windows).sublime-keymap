@@ -1,3 +1,6 @@
 [
 	{ "keys": ["ctrl+shift+n"], "command": "new_window" },
+	{ "keys": ["ctrl+shift+,"], "command": "move_to", "args": {"to": "bol", "extend": false} },
+    { "keys": ["ctrl+shift+."], "command": "move_to", "args": {"to": "eol", "extend": false} }
+
 ]
